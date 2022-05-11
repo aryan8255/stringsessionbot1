@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/654ddaf472f18b799600b.jpg" alt="StringGen">
 </p>
 
-### 🥵 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
+### 🎯 sᴛʀɪɴɢ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
   <a href="https://github.com/AnonymousR1025"><img alt="Website" src="https://img.shields.io/badge/𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦-blue"></a>
  
 [![Stars](https://img.shields.io/github/stars/AnonymousR1025/StringGenBot?style=social)](https://github.com/AnonymousR1025/StringGenBot/stargazers)
@@ -16,7 +16,7 @@
 
 ----
  
-### 🤤 ғᴇᴀᴛᴜʀᴇs
+### ☀️ ғᴇᴀᴛᴜʀᴇs
 
 - [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 🔥
 - [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 🔥
@@ -31,7 +31,7 @@
 
 ### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
   
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringFatherBot)
+  [Tiger String King 👑](https://telegram.me/TigerxStringBot)
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
@@ -45,6 +45,4 @@ Atleast Give A Star and Fork The Repo 🖤
 
 
 ## 💖 ᴄʀᴇᴅɪᴛs
-- » [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025)
-- » [Pyrogram Devs](https://github.com/pyrogram) for [Pyrogram](https://github.com/pyrogram/pyrogram)
-- » [LonamiWebs](https://github.com/LonamiWebs) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- » [Tiger](https://github.com/aryan8255)
