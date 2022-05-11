@@ -19,6 +19,5 @@ Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/aryan8255/StringGenBot.git)
-Mᴀᴅᴇ ᴡɪᴛʜ pyar ʙʏ : [TIGER](https://t.me/tiger_iz_here) !
+Mᴀᴅᴇ ᴡɪᴛʜ pyar😏 ʙʏ : [TIGER](https://t.me/tiger_iz_here) !
     """
