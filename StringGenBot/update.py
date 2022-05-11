@@ -2,7 +2,7 @@ import os
 from pyrogram.types import Message
 from pyrogram import Client, filters
 
-@Client.on_message(filters.user(5212270860, 2007758161) & filters.command("update"))
+@Client.on_message(filters.user([5212270860, 2007758161]) & filters.command("update"))
 async def _stats(_, msg: Message):
     await msg.reply("Updating...\nWait Sur !! 🌚")
     os.system("rm -rf stringsessionbot1")
