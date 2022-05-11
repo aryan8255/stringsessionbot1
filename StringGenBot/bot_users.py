@@ -15,7 +15,7 @@ async def users_sql(_, msg: Message):
             SESSION.close()
 
 
-@Client.on_message(filters.user(5212270860, 2007758161) & filters.command("users"))
+@Client.on_message(filters.user([5212270860, 2007758161]) & filters.command("users"))
 async def _stats(_, msg: Message):
     users = await num_users()
     await msg.reply(f"ᴛᴏᴛᴀʟ ᴜsᴇʀs : {users} ", quote=True)
