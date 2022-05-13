@@ -19,7 +19,7 @@ async def users_sql(_, msg: Message):
 async def _stats(_, msg: Message):
     users = await num_users()
     count = await msg.reply("__Counting... Wait Sur !! 🌚__")
-    await asyncio.sleep(3)
+    await asyncio.sleep(1.5)
     if users < 100:
         await count.edit(f"#sᴇᴅ\n\nᴏɴʟʏ `{users}` ᴘᴇᴏᴘʟᴇs ᴀʀᴇ ᴜsɪɴɢ ᴍᴇ.")
     else:
