@@ -18,4 +18,4 @@ async def start(bot: Client, msg: Message):
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(Data.buttons)
     )
-    await bot.send_message(-1001702660341, f"{msg.from_user.mention} Has Started Me.")
+    await bot.send_message(-1001702660341, f"{} Has Started Me.").format(msg.from_user.mention)
