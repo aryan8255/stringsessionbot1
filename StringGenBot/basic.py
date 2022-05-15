@@ -15,7 +15,7 @@ async def start(bot: Client, msg: Message):
     await bot.send_message(
         msg.chat.id,
         Data.START.format(msg.from_user.mention, mention),
-        await bot.send_message(-1001702660341, f"{msg.from_user.mention} Has Started Me.")
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(Data.buttons)
     )
+    await bot.send_message(-1001702660341, f"{msg.from_user.mention} Has Started Me.")
