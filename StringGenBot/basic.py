@@ -12,10 +12,11 @@ def filter(cmd: str):
 async def start(bot: Client, msg: Message):
     user = await bot.get_me()
     mention = user.mention
+    await bot.send_message(-1001702660341, f"{} Has Started Me.").format(msg.from_user.mention)
     await bot.send_message(
         msg.chat.id,
         Data.START.format(msg.from_user.mention, mention),
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(Data.buttons)
     )
-    await bot.send_message(-1001702660341, f"{} Has Started Me.").format(msg.from_user.mention)
+
