@@ -1,9 +1,7 @@
-# LΣGΣΠD | @Hey_LEGEND
-
 import os
 from pyrogram.types import Message
 from pyrogram import Client, filters
-from from env import HEROKU_API_KEY, HEROKU_APP_NAME
+from env import HEROKU_API_KEY, HEROKU_APP_NAME
 import heroku3
 
 Heroku = heroku3.from_key(HEROKU_API_KEY)
