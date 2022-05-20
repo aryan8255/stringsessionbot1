@@ -8,6 +8,8 @@ API_HASH = os.getenv("API_HASH", "").strip()
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "")
+HEROKU_APP_NAME = os.getenv("HEROKU_APP_NAME", "").strip()
+HEROKU_API_KEY = os.getenv("HEROKU_API_KEY", "").strip()
 
 if not API_ID:
     print("No API_ID found. Exiting...")
